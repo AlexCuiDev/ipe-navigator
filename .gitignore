@@ -1,0 +1,25 @@
+# 真实数据 —— 绝不可提交
+portfolio_data.json
+sample-ga.json
+*.ga.json
+refReferences/
+data/
+dist/
+dist-exe/
+build/
+*.exe
+*.spec
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+*.egg-info/
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
