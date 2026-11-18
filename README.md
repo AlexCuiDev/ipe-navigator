@@ -86,9 +86,6 @@ This repository contains **no Dassault Systèmes internal data**. The input (Por
 仅标准库 + 三个第三方包：`beautifulsoup4`、`lxml`、`jinja2`。不依赖 pandas / openpyxl，因此打包体积小。
 
 ---
-
----
-
 ## 相关链接
 
 作者个人技术门户：<https://alexcuidev.github.io/> —— 工业软件（3DEXPERIENCE / CATIA）二次开发、参数化正向设计、交付实施的实践与成果。
